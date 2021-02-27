@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Resume"
 title_separator          : "-"
 name                     : &name "Andreas Lydakis"
 description              : &description "Robotics Engineer"
