@@ -11,30 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Computer Engineering, University of Patras, 2012
+* M.S. in Computer Science, University of New Hampshire, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Oct 2018: 
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2018 - Oct. 2018: Robotics Engineer
+  * InnotecUK
+  * Implemented ROS nodes for RS485 & CANOpen communication protocol for motor control
+  * Implemented a visual odometry system for differential drive robots
+  * Worked on Motion capture system & IMU integration for human activity detection for a lower limb exoskeleton project
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Robotics / Simulation
+  * ROS
+  * Gazebo, VREP, Unity
+  * NVIDIA Isaac
+* Extensive Experience
+  * C++
+  * Python (scikit, pandas, numpy)
+  * R
+* Deep Learning
+  * Keras, PyTorch
+* CI/CD:
+  * Git, Docker, K8s
+* Exposure To:
+  * Scala, Kotlin, Perl
 
 Publications
 ======
