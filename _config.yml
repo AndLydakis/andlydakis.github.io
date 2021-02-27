@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Andreas Lydakis"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Robotics Engineer"
+  location         : "Chippenham, UK"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
@@ -91,24 +91,25 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "AndLydakis"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  linkedin         : andreaslydakis
 
 
 # Reading Files
