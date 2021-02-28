@@ -10,18 +10,19 @@ location: "Durham, NH, USA"
 Introduction To Mobile Robotics
 ======
 Introduction to mobile robotics and ROS, helped the students familiarize with ROS using 3 TurtleBots, set up with the complete
-ROS navigation suite.
-
+ROS navigation suite.  
+  
 Human-Robot Interaction
 ======
 Seminar class, set-up the course infrastructure, assisted students with ROS-related and Arduino programming,
-helped with programming and architecture for the cours projects.
-
+helped with programming and architecture for the cours projects.  
+  
 Database Systems
 ======
-Introduction to SQL.
+Introduction to SQL.  
 
 Operating Systems
 ======
 Introduction to operating systems, scheduling, computer architecture.
-Wrote and graded exercises.
+Wrote and graded exercises.  
+
