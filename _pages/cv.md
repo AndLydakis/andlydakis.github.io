@@ -39,10 +39,15 @@ Skills
   * R
 * Deep Learning
   * Keras, PyTorch
-* CI/CD:
-  * Git, Docker, K8s
+* CI/CD
+  * Git, Docker, K8s, familiar with Jenkins, TravisCI, AWS, Google Cloud
+* Working Knowledge
+  * C, Java, SQL, JavaScript
+* Web
+  * Node, React, Django, PostgreSQL, familiar with Redis
 * Exposure To:
   * Scala, Kotlin, Perl
+
 
 Publications
 ======
