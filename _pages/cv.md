@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Engineering, University of Patras, 2012
-* M.S. in Computer Science, University of New Hampshire, 2014
+* M.Sc. in Computer Engineering, University of Patras, 2012
+* M.Sc. in Computer Science, University of New Hampshire, 2014
 
 Work experience
 ======
