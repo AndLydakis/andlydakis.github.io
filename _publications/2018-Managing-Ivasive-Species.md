@@ -1,7 +1,7 @@
 ---
 title: "Computing Robust Strategies for Managing Invasive Plants"
 collection: publications
-permalink: /publication/Lydakis2018.pdf
+permalink: /publication/2018-managing-invasive-species
 excerpt: 'This paper presents methods for data-driven risk-averse decision support systems that can work with flawed
 data in the context of managing pervasive plant species in the New England Area.'
 date: 2018-06-26
