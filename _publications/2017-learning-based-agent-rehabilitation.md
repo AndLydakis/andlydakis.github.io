@@ -2,11 +2,9 @@
 title: "A Learning-based Agent for Home Neurorehabilitation"
 collection: publications
 permalink: /publication/2017-learning-based-agent-rehabilitation
-excerpt: 'This paper presents the iterative development
-of an artificially intelligent system to promote home-based
-neurorehabilitation'
+excerpt: 'This paper presents the iterative development of an artificially intelligent system to promote home-based neurorehabilitation'
 date: 2017-07-20
-venue: ' International Conference on Rehabilitation Robotics (ICORR)'
+venue: 'International Conference on Rehabilitation Robotics (ICORR)'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/28813990/'
 citation:  'Lydakis A, Meng Y, Munroe C, Wu YN, Begum M. A learning-based agent for home neurorehabilitation. IEEE Int Conf Rehabil Robot. 2017 Jul;2017:1233-1238. doi: 10.1109/ICORR.2017.8009418. PMID: 28813990.' 
 ---
@@ -14,5 +12,4 @@ We designed a Learning from Demonstration (LfD) based home-rehabilitation framew
 
 [Download paper here](http://andlydakis.github.io/files/2017-learning-based-agent-rehabilitation.pdf)
 
-Recommended citation: 'Lydakis A, Meng Y, Munroe C, Wu YN, Begum M. A learning-based agent for home neurorehabilitation. IEEE Int Conf Rehabil Robot. 2017 Jul;2017:1233-1238. doi: 10.1109/ICORR.2017.8009418. PMID: 28813990.'
 
