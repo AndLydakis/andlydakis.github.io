@@ -13,5 +13,3 @@ In this paper we explore tablets and similar mobile devices as the medium of com
 
 [Download paper here](http://andlydakis.github.io/files/2015-assiste-living-interactions.pdf)
 
-Recommended citation: 'Dagioglou, Maria & Lydakis, Andreas & Kirstein, Franziska & Dogruöz, A. & Konstantopoulos, Stasinos. (2015). Interacting with and via mobile devices and mobile robots in an assisted living setting. EAI Endorsed Transactions on Pervasive Health and Technology. 1. 10.4108/phat.1.1.e3. '
-

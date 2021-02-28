@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2017-irregular-gait-detection
 excerpt: 'This paper presents a personalized system for detecting irregular gait parameters that may lead to a fall'
 date: 2017-06-21
-venue: ' International Conference on Pervasive Technologies Related to Assistive Environments'
+venue: 'International Conference on Pervasive Technologies Related to Assistive Environments'
 paperurl: 'https://dl.acm.org/doi/10.1145/3056540.3056555'
 citation:  'Andreas Lydakis, Pei-Chun Kao, and Momotaz Begum. 2017. Irregular Gait Detection using Wearable Sensors. In Proceedings of the 10th International Conference on PErvasive Technologies Related to Assistive Environments (PETRA '17). Association for Computing Machinery, New York, NY, USA, 150–155. DOI:https://doi.org/10.1145/3056540.3056555' 
 ---
