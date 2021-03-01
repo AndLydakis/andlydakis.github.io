@@ -2,6 +2,7 @@
 title: "Web Development Practice and some CI/CD"
 excerpt: "Experimenting with different webdev frameworks <br/><img src='/images/500x300.png'>"
 collection: portfolio
+categories: DL
 ---
 
 Some experiments with 3D game programming with Unity:

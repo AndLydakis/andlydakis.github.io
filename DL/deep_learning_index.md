@@ -4,6 +4,5 @@ excerpt: "Various Deep Learning apps from courses and books <br/><img src='/imag
 collection: portfolio
 ---
 
-* 1
-* 2 
-* 3
+* [Deep Learning With PyTorch](/DL/dl_with_pt.md)
+* [FreeCodeCamp Tensorflow Course](/DL/code_camp)
