@@ -83,7 +83,7 @@ author:
   location         : "Chippenham, UK"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=OKPy65EAAAAJ"
-  email            :
+  email            : "andlydakis@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,8 +96,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -178,9 +177,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+#  talks:
+#    output: true
+#    permalink: /:collection/:path/
 
 
 # Defaults
@@ -231,13 +230,13 @@ defaults:
       share: true
       comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+#  - scope:
+#      path: ""
+#      type: talks
+#    values:
+#      layout: talk
+#      author_profile: true
+#      share: true
 
 # Sass/SCSS
 sass:
