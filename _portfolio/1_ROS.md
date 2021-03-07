@@ -1,6 +1,6 @@
 ---
 title: "ROS Projects"
-excerpt: "Projects Involving ROS <br/><img src='/images/ros.png' height="50">"
+excerpt: "Projects Involving ROS <br/><img src='/images/ros.png' height='50'>"
 collection: portfolio
 ---
 <img src='/images/ros.png' height="50">
