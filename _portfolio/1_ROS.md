@@ -1,9 +1,9 @@
 ---
 title: "ROS Projects"
-excerpt: "Projects Involving ROS <br/><img src='/images/ros.png' height='40%'>"
+excerpt: "Projects Involving ROS <br/><img src='/images/ros.png' style='width:50px;'>"
 collection: portfolio
 ---
-<img src='/images/ros.png' height="40%">
+<img src='/images/ros.png' style="width:50px;">
 
 * [Learning Assisted Rehabilitation](/ROS/rehab.md)
 * [Visual Odometry Node](https://github.com/AndLydakis/visual_odometry)
