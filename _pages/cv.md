@@ -17,10 +17,12 @@ Education
 Work experience
 ======
 * Oct 2018: **Dyson Technology** - Robotics Engineer
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
+  * Worked with a multi-disciplinary team to design and implement a multi-modal distributed HRI behavioural model, 
+    based on behaviour trees, demonstrated on hardware prototypes.
+  * Worked on human gesture recognition, and DL-based human-robot demonstration applications.
+  * Designed simulated manipulation and computer vision applications, and testing frameworks.
+  * Implemented robotics navigation components, and related evaluation and testing frameworks.
+  
 * May 2018 - Oct. 2018: **Innotec UK** - Robotics Engineer
   * Implemented ROS nodes for RS485 & CANOpen communication protocol for motor control
   * Implemented a visual odometry system for differential drive robots
