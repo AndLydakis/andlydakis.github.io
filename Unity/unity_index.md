@@ -6,6 +6,6 @@ collection: portfolio
 
 Some experiments with 3D game programming with Unity:
 
-* A 2D physics based platformer
-* A tower defense game
-* A zombie first person shooter
+* [A 2D physics based platformer](https://github.com/AndLydakis/Project-Boost)
+* [A tower defense game](https://github.com/AndLydakis/RealmRush)
+* [A zombie first person shooter](https://github.com/AndLydakis/ZombieShoot)

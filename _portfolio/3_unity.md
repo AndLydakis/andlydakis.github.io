@@ -8,6 +8,6 @@ collection: portfolio
 
 ### Links to follow  
 
-* A 2D physics based platformer
-* A tower defense game
-* A zombie first person shooter
+* [A 2D physics based platformer](https://github.com/AndLydakis/Project-Boost)
+* [A tower defense game](https://github.com/AndLydakis/RealmRush)
+* [A zombie first person shooter](https://github.com/AndLydakis/ZombieShoot)

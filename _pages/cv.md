@@ -16,14 +16,20 @@ Education
 
 Work experience
 ======
-* Oct 2018: **Dyson Technology** - Robotics Engineer
+* September 2021 - August 2021: **Scania Group** - Senior Software Engineer
+  * Lead the implementation and integration of different simulation tools, their interactions with the onboard stack, data storage pipelines, and the publishing and tracking of KPIs for different application domains.  
+  * Worked on the integration and development parts of the onboard simulation stack in simulated environments.
+  * Acted as product owner, communicating with development teams, gathering requirements and coordinating quarterly development cycles for a team of 9.
+  * Coordinated supplier and tool evaluation in cooperation with development team stakeholders. 
+
+* October 2018 - August 2021: **Dyson Technology** - Robotics Engineer
   * Worked with a multi-disciplinary team to design and implement a multi-modal distributed HRI behavioural model, 
     based on behaviour trees, demonstrated on hardware prototypes.
   * Worked on human gesture recognition, and DL-based human-robot demonstration applications.
   * Designed simulated manipulation and computer vision applications, and testing frameworks.
   * Implemented robotics navigation components, and related evaluation and testing frameworks.
   
-* May 2018 - Oct. 2018: **Innotec UK** - Robotics Engineer
+* May 2018 - October 2018: **Innotec UK** - Robotics Engineer
   * Implemented ROS nodes for RS485 & CANOpen communication protocol for motor control
   * Implemented a visual odometry system for differential drive robots
   * Worked on Motion capture system & IMU integration for human activity detection for a lower limb exoskeleton project
